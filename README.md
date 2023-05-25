@@ -1,10 +1,12 @@
+		**C - Stacks, Queues - LIFO, FIFO**
+
 Stacks and queues are fundamental data structures used for organizing and managing data.
 
 They have distinct characteristics and are commonly used in various algorithms and applications.
 
 Here's a brief overview of stacks and queues:
 
-Stacks:
+**Stacks:**
 
 	- Stacks follow the Last-In, First-Out (LIFO) principle, 
 	which means that the last item inserted is the first one to be removed.
@@ -16,7 +18,7 @@ Stacks:
 	- Stacks are often used in scenarios that involve tracking function calls, managing recursion, 
 	undo/redo operations, and evaluating expressions, among others.
 
-Queues:
+**Queues:**
 
 	- Queues follow the First-In, First-Out (FIFO) principle, 
 	which means that the first item inserted is the first one to be removed.
